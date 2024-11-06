@@ -11,6 +11,8 @@ const config: Config = {
       colors: {
         background: "var(--background)",
         foreground: "var(--foreground)",
+        earthyBrown: "#A29875",
+        brown: "#787054",
       },
     },
   },
